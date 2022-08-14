@@ -5,11 +5,11 @@
   
 int main()
 {
-    int i, sum, num;
+    int i,sum,num;
 
-    for (i = 1; i <= 1000; i++)
+    for (i=1;i<=1000;i++)
     {
-        num = i;
+        num=i;
         
         if(num<=9)
         {
